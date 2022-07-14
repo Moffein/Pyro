@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3320457402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc5289c832b4a2fcfd638e2b780a9a60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/skill4.png
+- Assets/Resources/skill4_scepter.png
+- Assets/Resources/skill1.png
+- Assets/Resources/heatbar_heated.png
+- Assets/Resources/skill2.png
+- Assets/Resources/heatgauge.png
+- Assets/Resources/skill3.png
+- Assets/Resources/heatbar.png
+- Assets/Resources/heatgauge_heated.png
+Dependencies: []
